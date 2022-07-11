@@ -7,6 +7,8 @@ Red : Large widespread errors to the extent that the model is unable to represen
  
 Orange: Unsatisfactory, substantial errors in remote regions where downstream effects could be expected to impact on the reliability of regional information and/or present in the local region of interest. 
 
-White: Satisfactory, some substantial errors present but not widespread or not present in the local region of interest. Location of larger remote errors are not known to have a downstream impact in the local region of interest. Captures key characteristics of the criteria spatially or temporarily.
+Yellow: Satisfactory, some substantial errors present but not widespread or not present in the local region of interest. Location of larger remote errors are not known to have a downstream impact in the local region of interest. Captures key characteristics of the criteria spatially or temporarily.
+
+White: : Low errors over both local and remote regions. Captures key characteristics of the criteria spatially or temporarily
 
 Grey: Data/ analysis not available. 
