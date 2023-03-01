@@ -1,7 +1,7 @@
 # cmip6_european_assessment
 summary assessment of CMIP6 models for Europe
 
-Models are graded against each of the criteria in the table (selection_criteria_cmip6(1).xlxs as follows: 
+Models are graded against each of the criteria in the table (selection_criteria_cmip6_summary.xls as follows: 
 
 Red : Large widespread errors to the extent that the model is unable to represent the present-day climatology in a useful way and future projections by the model cannot be interpreted in a meaningful way. 
  
