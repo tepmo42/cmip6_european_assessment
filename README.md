@@ -14,4 +14,4 @@ White: : Low errors over both local and remote regions. Captures key characteris
 Grey: Data/ analysis not available. 
 
 
-© Crown Copyright, Met Office
+© Crown Copyright 2023, Met Office (please see licence file for futher details). 
