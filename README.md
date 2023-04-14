@@ -12,3 +12,6 @@ Yellow: Satisfactory, some substantial errors present but not widespread or not 
 White: : Low errors over both local and remote regions. Captures key characteristics of the criteria spatially or temporarily
 
 Grey: Data/ analysis not available. 
+
+
+© Crown Copyright, Met Office
