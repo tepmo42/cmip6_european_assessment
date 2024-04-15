@@ -13,5 +13,7 @@ White: : Low errors over both local and remote regions. Captures key characteris
 
 Grey: Data/ analysis not available. 
 
+Note correction to the precipitation classification for FGOALS-f3-LL in summary assessment spreadsheet, NEU (unsatisfactory), CEU (inadequate). Previous assessment was incorrect due to a masking error. (15/04/2024). 
+
 
 © Crown Copyright 2023, Met Office (please see licence file for futher details). 
